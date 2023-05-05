@@ -17,7 +17,7 @@
 .boton-navbar{
   margin: 2px;
   font-size: medium;
-  background-color: aquamarine;
+  background-color: rgb(30, 216, 154);
   color: black;
   border-radius: 4px;
 }
@@ -25,4 +25,12 @@
   color: aquamarine;
   background-color:black;
   border-radius: 4px;
+}
+
+.navBar{
+  background-color: aquamarine;
+}
+
+.carrito{
+  background-color: white;
 }

@@ -1,8 +1,8 @@
 import CardWidgets from "./cardWidgets/cardWidgets";
 const NavBar = () =>{
     return(
-        <nav>
-            <h3>Narices Frias</h3>
+        <nav className="navBar">
+            <h3> 🐾 Narices Frias</h3>
             <div>
                 <button className="boton-navbar">Alimentos</button>
                 <button className="boton-navbar">Accesorios</button>
